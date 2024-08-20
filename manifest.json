@@ -1,0 +1,21 @@
+{
+    "name": "Barbed Wire Length Calculator",
+    "short_name": "WireCalc",
+    "description": "Calculate the length of barbed wire based on weight.",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#ff6347",
+    "icons": [
+      {
+        "src": "icon-192.png",
+        "sizes": "192x192",
+        "type": "image/png"
+      },
+      {
+        "src": "icon-512.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      }
+    ]
+  }
